@@ -6,7 +6,6 @@ This is my IST portfolio. In this repository I will be addeing projects and exer
 
 The basic git vommands to update this repo are:
 ``` 
-
 git add . 
 git -commit -m "commit message"
 git push
