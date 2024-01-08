@@ -11,4 +11,10 @@ git -commit -m "commit message"
 git push
 ```
 
+![Chicken](Air_Fryer_Chicken_Tikka_Masala.jpg)
+
+To autocomplete filenames in vim
+- Ctrl+x Ctrl+f
+- Ctrl+n to cycle through options
+
 
